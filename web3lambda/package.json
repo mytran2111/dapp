@@ -1,0 +1,15 @@
+{
+  "name": "blockchain_lambda",
+  "version": "1.0.0",
+  "description": "lambda functions for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "myduct",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^4.0.3",
+    "xhr2": "^0.2.1"
+  }
+}
