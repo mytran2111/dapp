@@ -31,3 +31,7 @@ npm run start
 ```
 
 Trouble shooting: check port if it is running on localhost3000:/
+
+
+https://github.com/user-attachments/assets/394143d0-7059-4b03-a484-1b20bac27a74
+
